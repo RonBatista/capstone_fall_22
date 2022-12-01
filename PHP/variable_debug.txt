@@ -1,0 +1,4 @@
+Will upload the image! 
+selected_orthomosaic_FilePath= /var/www/html/uas_data/uploads/products/2022_Corpus_Christi_Cotton/DJI_Phantom_4_RTK/RGB/05-23-2022/20220523/RGB_Ortho/20220523_cc_p4r_parking_mosaic/20220523_cc_p4r_parking_mosaic.tif
+img_file= /var/www/html/uas_data/uploads/products/2022_Corpus_Christi_Cotton/DJI_Phantom_4_RTK/RGB/05-23-2022/20220523/RGB_Ortho/20220523_cc_p4r_parking_mosaic/20220523_cc_p4r_parking_mosaic.tif
+Uploaded the image: /var/www/html/uas_data/uploads/products/2022_Corpus_Christi_Cotton/DJI_Phantom_4_RTK/RGB/05-23-2022/20220523/RGB_Ortho/20220523_cc_p4r_parking_mosaic/20220523_cc_p4r_parking_mosaic.tif
