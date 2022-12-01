@@ -1,0 +1,9 @@
+To use the tool, the user first needs to specify the project's name, an Orthomosaic file, a Boundary file,
+the sensor and platform that were used to take the Orthomosaic image and optionally a Canopy Height
+Model file. After choosing an Orthomosaic/Canopy Height Model file, the user can specify
+what canopy attributes to generate including the Canopy Cover, Canopy Height, Canopy Volume
+and Excess Greeness. It's important to note, the Canopy Height and Volume can not be generated unless a
+Canopy height Model file is specified. After clicking the "Generate Results" button, the user can
+then select the canopy attributes and file formats (Shape, GeoJSON, CSV and XLSX) they would like
+to download. The generated files are available to download through the "Download Generated Files"
+button, which will then download a Zip file of the specified attributes and file formats.
